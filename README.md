@@ -50,4 +50,4 @@ npm run e2e:synpress:live
 
 ## Project Overview and Detailed Explanation
 
-For a more in-depth explanation of how this project works, including use cases and testing scenarios, please refer to [this article on Medium](https://medium.com/p/78d64088a137).
+For a more in-depth explanation of how this project works, including use cases and testing scenarios, please refer to [this article on Medium](https://yehiatarek67.medium.com/the-full-guide-for-end-to-end-testing-with-your-dapp-with-synpress-78d64088a137).
