@@ -1,8 +1,4 @@
-Got it! You can include an internal link to your Medium article in the `README.md` like this:
-
----
-
-# Synpress Project
+# 0xCairo WorkShop Dapp E2E 
 
 Synpress is a testing framework built on top of [Cypress](https://www.cypress.io/) that provides support for decentralized applications (DApps). It enables end-to-end testing with MetaMask integration, making it ideal for Web3 projects.
 
