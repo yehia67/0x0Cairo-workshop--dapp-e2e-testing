@@ -1,7 +1,5 @@
 import { Given, When } from "@badeball/cypress-cucumber-preprocessor";
-import { HomePageObject } from "./page-objects/home";
 
-const home = new HomePageObject();
 
 Given("A user with metamask installed connected to {word} network", (network) => {
     cy.changeMetamaskNetwork(network);
